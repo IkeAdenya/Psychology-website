@@ -1,0 +1,67 @@
+.titlearea {
+    text-align:left;
+    background-color: rgb(53, 53, 53);
+    color: white;
+    width: 100%;
+    height: 50px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    font-size:x-large;
+    font-family: 'Courier New', Courier, monospace; 
+    margin-bottom: 3px;
+    
+    border:2px groove black;
+    display: block;
+}
+
+.sidearea {
+    text-align:center;
+    color: white;
+    width: 200px;
+    height: 560px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    margin-right: 10px;
+    font-size:x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+main {
+    display: flex;
+}
+
+.mainarea {
+
+    text-align:left;
+    color: white;
+    width: 1300px;
+    height: 560px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    font-size:x-large;
+    font-family: 'Courier New', Courier, monospace; 
+    margin-bottom: 20px;
+    padding-left: 350px;
+    padding-top: 50px;
+
+}
+
+body {
+    margin: 0px;
+    background-color: rgb(37, 37, 37);
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVMzGgQxu3muxwYOB2U4pTnTj4GbHRXo5IQ&usqp=CAU");
+    
+}
+
+.h {
+    text-align:center;
+    color: white;
+    width: 350px;
+    height: 450px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    font-size:x-large;
+    font-family: 'Courier New', Courier, monospace; 
+    margin-bottom: 20px;
+    background-color: rgb(66, 66, 66);
+}
